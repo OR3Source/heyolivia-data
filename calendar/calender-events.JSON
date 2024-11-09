@@ -1,0 +1,35 @@
+{
+  "header": {
+    "file_name": "calendar_events.json",
+    "description": "A list of events for display on the website calendar",
+    "last_updated": "11/08/2024"
+  },
+  "events": [
+    {
+      "name": "Test Event",
+      "date": "11/6/2024",
+      "time": "6:00 PM",
+      "timezone": "EST",
+      "location": {
+        "city": "Los Angeles",
+        "state": "CA",
+        "venue": "ABC Venue",
+        "openers": ["TOWA Bird"]
+      },
+      "url": "https://www.example.com"
+    },
+    {
+      "name": "Test Event 2",
+      "date": "12/2/2024",
+      "time": "6:00 PM",
+      "timezone": "EST",
+      "location": {
+        "city": "Los Angeles",
+        "state": "CA",
+        "venue": "ABC Venue",
+        "openers": ["TOWA Bird"]
+      },
+      "url": "https://www.example.com"
+    }
+  ]
+}
